@@ -1,0 +1,114 @@
+body{
+    background-color:#A6ED8E ;
+    
+}
+
+label{
+	font-weight: bold;
+	font-size: 1.2vw;
+  color: white;
+  margin-top: 5px;
+}
+#Permit-request{
+   font-size: 1.5vw;
+    margin-top: 20px;
+    width: 100%;
+    font-weight: bold;
+}
+
+input[type=date] {
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #EBE8BE;
+
+}
+input[type=text] {
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #EBE8BE;
+}
+input[type=number] {
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #EBE8BE;
+
+}
+.select-tag{
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #EBE8BE;
+
+}
+#TPlants{
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #EBE8BE;
+
+}
+input[type=select] {
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #EBE8BE;
+
+}
+tr{
+  text-align: center;
+}
+.select-parmit{
+  color: white;
+}
+.start-date,.end-date{
+  color: white;
+}
+
+
+#title{
+    font-size: 1.5vw;
+    margin-top: 20px;
+    width: 100%;
+
+
+}
+#note{
+    color: #1B3c59;
+    font-weight: bold;
+}
+#title,h1,strong{
+    color: black;
+    
+}
+
+.history{
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: #1B3c59;
+    
+
+}
+.chllanform{
+    height: auto;
+}
+.div-start{
+    height: auto;
+    max-width: 20%;
+}
+.div-end{
+    height: auto;
+    max-width: 20%;
+}
+label, h3{
+    color: black;
+}
+li{
+    text-decoration: none;
+}
+input[type=text] {
+  border: 2px solid black;
+  border-radius: 4px;
+  
+}
+
+
+
+
+
